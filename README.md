@@ -16,12 +16,10 @@ It simplifies the process of scheduling medical appointments online — providin
 
 ---
 
-## Screenshots
+## Live Link
 
-| **Login / Signup** | ![Login Screenshot](./assests/user.png) |
-| **doctor login** | ![Patient Dashboard](./assests/doctor.png) |
-| **Doctor Dashboard** | ![Doctor Dashboard](./assests/doctor_dashboard.png) |
-| **Admin Panel** | ![Admin Panel](./assests/admin.png) |
+| **Patient and Doctor** | https://appointment-frontend-yoep.onrender.com/ |
+| **Admin Panel** | https://appoinment-admin.onrender.com/ |
 
 
 ---
